@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1083972924637",
+    "firebase_url": "https://nutbolst-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nutbolst",
+    "storage_bucket": "nutbolst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083972924637:android:abf91ec800efb00a371734",
+        "android_client_info": {
+          "package_name": "com.DTPApp.nutbolst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjvPv0DWxChL9g3o6cVmtgpJakpTG2Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
